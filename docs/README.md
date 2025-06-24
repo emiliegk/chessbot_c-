@@ -46,7 +46,7 @@ Meet the team behind Cagnus Marlsen:
 - **Eugenio**: Project Lead and Engine Architect
 - **Peter**: AI Specialist
 - **Emilie**: Rendering Wizard
-- **Yung-Hsuan**: Algorithm Guru
+- **Yung-Hsuan**: Game Algorithm and Move detection
 
 ---
 
